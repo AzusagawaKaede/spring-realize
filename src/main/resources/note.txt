@@ -1,0 +1,8 @@
+手动实现Spring核心功能：
+1 @Component注解
+2 @ComponentScan注解
+3 @Scope注解
+4 @Lazy注解
+5 BeanDefinition
+6 Spring的一级缓存
+7 创建Bean并放入容器
